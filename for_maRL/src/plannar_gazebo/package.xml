@@ -6,7 +6,7 @@
   <description>
     Launch Gazebo simulation.
   </description>
-  <maintainer email="janardanverma18@gmail.com">Louise Poubel</maintainer>
+  <maintainer email="janardanverma18@gmail.com">Janardan K Verma</maintainer>
   <license>Apache 2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
